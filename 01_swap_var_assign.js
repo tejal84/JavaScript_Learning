@@ -3,6 +3,8 @@ var cutie;
 console.log("sweety,cutie"); //before swaping
 console.log("cutie,sweety"); //after swaping
 
+
+
 var num1="100";
 var num2="200";
 var num3="300";

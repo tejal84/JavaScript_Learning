@@ -1,13 +1,13 @@
-var myFullName;
+var myFullName="Tejal Rathod";
 console.log(myFullName);
-myFullName = "Tejal  Rathod"
+
 console.log(myFullName); //before initialize
 var myFullName;
 myFullName = "Tejal Harishchandra Rathod"
 console.log(myFullName); //after initialize
 var myLove;
-myLove = "I love only js"
-console.log(myLove)
+myLove = "I love only js";
+console.log(myLove);
 
 var firstName = "Tejal";
 console.log(firstName);
