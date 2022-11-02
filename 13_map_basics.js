@@ -22,7 +22,7 @@ let value = map.get(33);
 console.log(value);
 console.log(map.get(99));
 
-console.log("=======Deleting record=======");
+console.log("=======Deleting record======="); 
 map.delete(11);
 console.log(map);
 
