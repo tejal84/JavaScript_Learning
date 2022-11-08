@@ -35,6 +35,7 @@ console.log(`Employee Idc -${33} , Employee Name- ${"Radha"},Employee Department
 console.log(`Employee Idc - ${55}, Employee Name- ${"Rishi"}, Employee Department - ${"Finance"}, Employee salary - ${47000}, Company Name - ${"TCS"}`);
 console.log("**************************************************************************");
 console.log("==================Employees Whose salary is 70k with name, company name==============================");
+
 console.log(` Employee Name- ${"Radha"}, Company Name - ${"Wipro"}, Employee salary - ${74000}, `);
 console.log(` Employee Name- ${"Vinayak"}, Company Name - ${"TCS"}, Employee salary - ${75000},`);
 console.log(` Employee Name- ${"Mahesh"}, Company Name - ${"Infy"}, Employee salary - ${85000},`);
